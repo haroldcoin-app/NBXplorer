@@ -288,3 +288,6 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 /NBXplorer.Tests/Properties/launchSettings.json
+
+# Git worktrees
+.worktrees/
